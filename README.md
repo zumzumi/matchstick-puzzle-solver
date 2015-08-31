@@ -3,7 +3,7 @@ It's very simple command line tool aims to solve matchstick puzzle like [ 5 + 3 
 
 just open terminal and compile solver.c and make a query from simple bash script (solver.sh) like that :</br>
 
-$ ./solver 3 + 4 = 9  <br/>
+$ ./solver.sh 3 + 4 = 9  <br/>
 and you will get this output<br/> 
  2 + 4 = 6    [ correct ]   [ two moves ]<br/>
  4 + 4 = 8    [ correct ]   [ two moves ]<br/>
