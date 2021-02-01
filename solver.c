@@ -12,7 +12,7 @@
 
 int main(int argc,char** argv)
 {
-
+$ ./solver.sh 1-0-3-1=15-1-21
 int number1 = atoi(argv[1]);
 char sign = argv[2][0];
 int number2 = atoi(argv[3]);
