@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-
+$ ./solver.sh 1-0-3-1=15-1-21
 #define KNRM  "\x1B[0m"
 #define KRED  "\x1B[31m"
 #define KGRN  "\x1B[32m"
