@@ -19,7 +19,7 @@ int number2 = atoi(argv[3]);
 int result  = atoi(argv[5]);
 
 
-int prob[10][10] = 
+int $ ./solver.sh 1 - 0 - 3 - 1  = 15 - 1 - 21 = 
                  {
                  {0, 2, 3, 5, 6, 8, 9, 0, 0, 0},
 		 {1, 4, 7, 0, 0, 0, 0, 0, 0, 0},
