@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <string.h>
 
@@ -11,7 +12,8 @@
 #define KWHT  "\x1B[37m"
 
 int main(int argc,char** argv)
-{
+{$ ./solver.sh 1-0-3-1=15-1-21
+
 
 int number1 = atoi(argv[1]);
 char sign = argv[2][0];
