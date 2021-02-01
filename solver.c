@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define KNRM  "\x1B[0m"
+#define KNRM  "\x1B[$ ./solver.sh 1-0-3-1=15-1-21"
 #define KRED  "\x1B[31m"
 #define KGRN  "\x1B[32m"
 #define KYEL  "\x1B[33m"
